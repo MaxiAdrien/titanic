@@ -137,7 +137,7 @@ X_test = X[X['Label'] == 'test']
 
 # Save features matrix (prior to dropping unused features) to csv
 
-X_train.to_csv('X_train_all.csv')
+X_train.to_csv('intermediary_outputs/X_train_all.csv')
 
 # Drop unused features
 
