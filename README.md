@@ -1,5 +1,7 @@
 # Titanic project
 
+Project date: July 2023
+
 Based on Kaggle's Titanic competition: https://www.kaggle.com/competitions/titanic
 
 Ensemble of tuned neural network, random forest and SVM
